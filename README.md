@@ -15,7 +15,7 @@ ChatMe is chat application build with the power of MERN Stack.
 
 ![chat screen 2](./images/Chat_Screen_2.png)
 
-![preloader](./images/Loadeer.png)
+![preloader](./images/Loader.png)
 
 ## Installation Guide
 
